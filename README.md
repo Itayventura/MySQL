@@ -12,3 +12,4 @@
 - [Database size](information_schema/database_size.sql)
 - [Tables size](information_schema/tables_size.sql)
 - [Count primary Keys](information_schema/count_primary_keys.sql)
+- [Isolated tables](information_schema/isolated_tables.sql) - can be used to count referenced tables
