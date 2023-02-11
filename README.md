@@ -1,6 +1,7 @@
 # Tips and Tricks
 
 - [How to insert a lot of test data](queries/fill_in_test_data.sql)
+- [Monitoring Deadlocks & Locks](queries/monitoring_locks.sql)
 - [Find unused indices in Schema](queries/find_unused_indices.sql)
 - [Create dates without gaps](queries/create_dates_without_gaps.sql)
 - [Compare two datasets](queries/compare_two_datasets.sql)
@@ -11,7 +12,7 @@
 - [UNIQUE INDEX with excluded rows](queries/unique_index_excluded_rows.sql)
 - [LEFT JOIN LATERAL](queries/left_join_lateral.sql) - can be used to fetch recent records of multiple users.
 - [GROUP CONCAT](queries/group_concat.sql)
-- [Monitoring Deadlocks & Locks](queries/monitoring_locks.sql)
+- [SELECT fewer columns](queries/select_fewer_columns.sql)
 
 # Information Schema
 - [Spot missing index](information_schema/missing_index.sql)
