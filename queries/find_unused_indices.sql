@@ -4,3 +4,5 @@ WHERE object_schema NOT IN('mysql', 'performance_schema')
 AND index_name IS NOT NULL
 AND index_name != 'PRIMARY'
 ORDER BY object_schema, object_name, index_name;
+
+select * from sys.schema_unused_indexes;
