@@ -1,7 +1,5 @@
-# MySQL
-## Description
-Useful tips and tricks related to MySQL
+# MySQL - Tips and Tricks
 
 ## Tips
-1. How to insert a lot of test data.
-2. Find unused indices in Schema.
+- How to insert a lot of test data.
+- Find unused indices in Schema.
