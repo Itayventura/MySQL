@@ -9,3 +9,4 @@
 - [ORDER BY nullable columns](queries/order_by_nullable_column.sql)
 - [UNIQUE INDEX with excluded rows](queries/unique_index_excluded_rows.sql)
 - [LEFT JOIN LATERAL](queries/left_join_lateral.sql) - can be used to fetch recent records of multiple users.
+- [Database size](information_schema/database_size.sql)
