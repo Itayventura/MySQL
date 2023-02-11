@@ -5,6 +5,7 @@
 - [Create dates without gaps](queries/create_dates_without_gaps.sql)
 - [Compare two datasets](queries/compare_two_datasets.sql)
 - [SELECT FOR UPDATE](queries/select_for_update.sql)
+- [SELECT FOR SHARE](queries/select_for_share.sql)
 - [Function based index](queries/function_based_index.sql)
 - [ORDER BY nullable columns](queries/order_by_nullable_column.sql)
 - [UNIQUE INDEX with excluded rows](queries/unique_index_excluded_rows.sql)
