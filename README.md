@@ -11,3 +11,4 @@
 - [LEFT JOIN LATERAL](queries/left_join_lateral.sql) - can be used to fetch recent records of multiple users.
 - [Database size](information_schema/database_size.sql)
 - [Tables size](information_schema/tables_size.sql)
+- [Count primary Keys](information_schema/count_primary_keys.sql)
