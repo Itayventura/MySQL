@@ -6,3 +6,4 @@
 - Create dates without gaps.
 - Compare two datasets.
 - SELECT FOR UPDATE
+- Function based index
