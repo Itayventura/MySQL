@@ -1,0 +1,1 @@
+SHOW ERRORS [LIMIT [offset,] row_count]

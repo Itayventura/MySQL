@@ -22,11 +22,18 @@
 - [Columns info](information_schema/column_info.sql)
 
 # Show
+- [CREATE TABLE STATEMENT](show/show_create_table.sql)
 - [Databases](show/show_databases.sql)
 - [Tables](show/show_tables.sql)
-- [CREATE TABLE STATEMENT](show/show_create_table.sql)
+- [Columns](show/show_columns.sql)
 - [Collations](show/show_collation.sql) - can be used to identify tables with wrong charsets
-
+- [Variables](show/show_variables.sql)
+- [Count errors](show/show_count_errors.sql)
+- [Count Warnings](show/show_count_warnings.sql)
+- [Errors](show/show_errors.sql)
+- [Index](show/show_index.sql)
+- [Table Status](show/show_table_status.sql)
+- [Warnings](show/show_warnings.sql)
 # References
 
 - https://vertabelo.com/blog/an-overview-of-mysqls-information-schema/

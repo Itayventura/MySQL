@@ -1,0 +1,1 @@
+SHOW WARNINGS [LIMIT [offset,] row_count]
