@@ -5,5 +5,6 @@
 - Find unused indices in Schema.
 - Create dates without gaps.
 - Compare two datasets.
-- SELECT FOR UPDATE
-- Function based index
+- SELECT FOR UPDATE.
+- Function based index.
+- ORDER BY nullable columns.
