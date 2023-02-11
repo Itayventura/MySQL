@@ -25,6 +25,7 @@
 - [Databases](show/show_databases.sql)
 - [Tables](show/show_tables.sql)
 - [CREATE TABLE STATEMENT](show/show_create_table.sql)
+- [Collations](show/show_collation.sql) - can be used to identify tables with wrong charsets
 
 # References
 
@@ -32,3 +33,4 @@
 - https://vertabelo.com/blog/querying-mysqls-information-schema-why-how/
 - https://www.sqlshack.com/learn-sql-the-information_schema-database/
 - https://sqlfordevs.com/
+- https://dev.mysql.com/doc/refman/5.7/en/show-collation.html
