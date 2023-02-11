@@ -1,0 +1,7 @@
+START TRANSACTION;
+
+SELECT SUM(amount)
+FROM account
+WHERE id = 7 FOR UPDATE;
+
+COMMIT;
