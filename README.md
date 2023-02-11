@@ -28,7 +28,7 @@
 
 # References
 
-https://vertabelo.com/blog/an-overview-of-mysqls-information-schema/
-https://vertabelo.com/blog/querying-mysqls-information-schema-why-how/
-https://www.sqlshack.com/learn-sql-the-information_schema-database/
-https://sqlfordevs.com/
+- https://vertabelo.com/blog/an-overview-of-mysqls-information-schema/
+- https://vertabelo.com/blog/querying-mysqls-information-schema-why-how/
+- https://www.sqlshack.com/learn-sql-the-information_schema-database/
+- https://sqlfordevs.com/
