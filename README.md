@@ -11,6 +11,7 @@
 - [UNIQUE INDEX with excluded rows](queries/unique_index_excluded_rows.sql)
 - [LEFT JOIN LATERAL](queries/left_join_lateral.sql) - can be used to fetch recent records of multiple users.
 - [GROUP CONCAT](queries/group_concat.sql)
+- [Monitoring Deadlocks & Locks](queries/monitoring_locks.sql)
 
 # Information Schema
 - [Spot missing index](information_schema/missing_index.sql)
@@ -36,6 +37,7 @@
 - [Index](show/show_index.sql)
 - [Table Status](show/show_table_status.sql)
 - [Warnings](show/show_warnings.sql)
+
 # References
 - https://dev.mysql.com/doc/refman/8.0/en/
 - https://vertabelo.com/blog/an-overview-of-mysqls-information-schema/
