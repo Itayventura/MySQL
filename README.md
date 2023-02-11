@@ -24,6 +24,7 @@
 - [Columns size](information_schema/column_size.sql)
 - [Count primary Keys](information_schema/count_primary_keys.sql)
 - [Count Keys](information_schema/count_keys.sql)
+- [Count Refernces](information_schema/count_references.sql)
 - [Isolated tables](information_schema/isolated_tables.sql) - can be used to count referenced tables
 - [Identify slow queries](information_schema/indentify_slow_queries.sql)
 - [Number of tables](information_schema/number_of_tables.sql)
