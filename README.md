@@ -47,3 +47,4 @@
 - https://dev.mysql.com/doc/refman/5.7/en/show-collation.html
 - http://youdidwhatwithtsql.com/spotting-missing-indexes-mariadb-mysql/2036/
 - https://dev.mysql.com/doc/refman/8.0/en/lateral-derived-tables.html
+- https://stackoverflow.com/questions/5836623/getting-lock-wait-timeout-exceeded-try-restarting-transaction-even-though-im

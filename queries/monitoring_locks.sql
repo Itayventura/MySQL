@@ -31,6 +31,8 @@ SELECT * FROM INFORMATION_SCHEMA.PROCESSLIST;
 
 SHOW FULL PROCESSLIST;
 
+kill <put_process_id_here>;
+
 SELECT name,comment
 FROM INFORMATION_SCHEMA.INNODB_METRICS
 WHERE name IN ('lock_deadlocks','lock_timeouts','lock_deadlock_false_positives','lock_deadlock_rounds');
