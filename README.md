@@ -19,6 +19,7 @@
 - [Identify slow queries](information_schema/indentify_slow_queries.sql)
 - [Number of tables](information_schema/number_of_tables.sql)
 - [Table info](information_schema/table_info.sql)
+- [Columns info](information_schema/column_info.sql)
 
 # Show
 - [Databases](show/show_databases.sql)
