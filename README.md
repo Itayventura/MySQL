@@ -12,6 +12,7 @@
 - [GROUP CONCAT](queries/group_concat.sql)
 
 # Information Schema
+- [Spot missing index](information_schema/missing_index.sql)
 - [Database size](information_schema/database_size.sql)
 - [Tables size](information_schema/tables_size.sql)
 - [Count primary Keys](information_schema/count_primary_keys.sql)
@@ -41,3 +42,4 @@
 - https://www.sqlshack.com/learn-sql-the-information_schema-database/
 - https://sqlfordevs.com/
 - https://dev.mysql.com/doc/refman/5.7/en/show-collation.html
+- http://youdidwhatwithtsql.com/spotting-missing-indexes-mariadb-mysql/2036/
