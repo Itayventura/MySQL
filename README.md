@@ -8,4 +8,5 @@
 - SELECT FOR UPDATE.
 - Function based index.
 - ORDER BY nullable columns.
-- Unique index with excluded rows.
+- UNIQUE INDEX with excluded rows.
+- LEFT JOIN LATERAL - can be used to fetch recent records of multiple users.
