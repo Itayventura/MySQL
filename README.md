@@ -36,7 +36,7 @@
 - [Table Status](show/show_table_status.sql)
 - [Warnings](show/show_warnings.sql)
 # References
-
+- https://dev.mysql.com/doc/refman/8.0/en/
 - https://vertabelo.com/blog/an-overview-of-mysqls-information-schema/
 - https://vertabelo.com/blog/querying-mysqls-information-schema-why-how/
 - https://www.sqlshack.com/learn-sql-the-information_schema-database/
