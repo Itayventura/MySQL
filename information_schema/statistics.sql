@@ -1,0 +1,3 @@
+SELECT *
+FROM INFORMATION_SCHEMA.STATISTICS
+order by table_name;
