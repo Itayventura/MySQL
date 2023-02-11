@@ -8,3 +8,4 @@
 - SELECT FOR UPDATE.
 - Function based index.
 - ORDER BY nullable columns.
+- Unique index with excluded rows.
