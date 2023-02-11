@@ -1,6 +1,5 @@
 # MySQL - Tips and Tricks
 
-## Tips
 - [How to insert a lot of test data](queries/fill_in_test_data.sql)
 - [Find unused indices in Schema](queries/find_unused_indices.sql)
 - [Create dates without gaps](queries/create_dates_without_gaps.sql)
