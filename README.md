@@ -1,7 +1,7 @@
 # MySQL - Tips and Tricks
 
 ## Tips
-- How to insert a lot of test data.
+- [How to insert a lot of test data.](queries/fill_in_test_data.sql)
 - Find unused indices in Schema.
 - Create dates without gaps.
 - Compare two datasets.
