@@ -16,7 +16,8 @@
 - [Monitoring Deadlocks & Locks](locking/monitoring_locks.sql)
 - [SELECT FOR UPDATE](locking/select_for_update.sql)
 - [SELECT FOR SHARE](locking/select_for_share.sql)
-- [Solving deadlocks](locking/solving_deadlock_in_orders.sql)
+- [Solving deadlocks order](locking/solving_deadlock_in_orders.sql)
+- [Solving deadlocks sms](locking/solving_deadlock_sms.sql)
 
 # Information Schema
 - [Spot missing index](information_schema/missing_index.sql)
